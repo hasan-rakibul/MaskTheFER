@@ -4,7 +4,7 @@ This repository contains all codes of our paper **MaskTheFER: Mask-Aware Facial 
 We conducted experiments on two FER databases: FER2013 and CK+. Before training and testing, a series of preprocessing operations were performed on these two databases.
 
 ## CK+
-It is small and contains many highly similar images as these images are consecutive frames from videos. Source: https://www.kaggle.com/datasets/shawon10/ckplus and https://github.com/spenceryee/CS229/tree/master/CK%2B
+It is small and contains highly similar images as these images are consecutive frames from videos. Source: https://www.kaggle.com/datasets/shawon10/ckplus and https://github.com/spenceryee/CS229/tree/master/CK%2B
 
 First we apply `remove_duplicate.py` on raw CK+ data. It is resized to approximately one-third of its original size because only one out of three frames from the same video is sampled.
 
