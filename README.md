@@ -62,7 +62,7 @@ If you find this repository useful in your research, please cite our paper and t
 ```
 ```
 @misc{jiang2023maskedfer2023,
-    title={{MaskedFER2023} and {MaskedCK}+: Face-masked {FER2013} and {CK+} datasets},
+    title={{MaskedFER2023} and {MaskedCK}+: Face-masked {FER2013} and {CK+} datasets for mask-aware facial expression recognition},
     author={Jiang, Cheng and Hasan, Md Rakibul and Gedeon, Tom and Hossain, Md Zakir},
     howpublished={Mendeley Data},
     note={V1},
