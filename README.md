@@ -51,7 +51,7 @@ Once the weights of the models are placed into the `models` folder, you can exec
 # Citation
 If you find this repository useful in your research, please cite our paper and the dataset as follows:
 ```
-@article{jiang2023maskthefer,
+@inproceedings{jiang2023maskthefer,
     title={{MaskTheFER}: Mask-Aware Facial Expression Recognition using Convolutional Neural Network},
     author={Jiang, Cheng and Hasan, Md Rakibul and Gedeon, Tom and Hossain, Md Zakir},
     booktitle={2023 International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
