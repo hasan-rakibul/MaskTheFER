@@ -58,7 +58,7 @@ If you find this repository useful in your research, please cite our paper and t
     author={Jiang, Cheng and Hasan, Md Rakibul and Gedeon, Tom and Hossain, Md Zakir},
     booktitle={2023 International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
     year={2023},
-    pages={456--463}
+    pages={456--463},
     organization={IEEE},
     doi={10.1109/DICTA60407.2023.00069}
 }
