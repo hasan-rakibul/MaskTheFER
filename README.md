@@ -1,5 +1,7 @@
 This repository contains all codes of our paper **MaskTheFER: Mask-Aware Facial Expression Recognition using Convolutional Neural Network**. Codes are primarily developed by Cheng Jiang.
 
+**Paper link:** [[IEEE Xplore](https://doi.org/10.1109/DICTA60407.2023.00069)] [[PDF](https://hasan-rakibul.github.io/pdfs/jiang2023maskthefer.pdf)]
+
 # Raw and Masked Datasets
 We conducted experiments on two FER databases: FER2013 and CK+. Before training and testing, a series of preprocessing operations were performed on these two databases.
 
@@ -56,8 +58,9 @@ If you find this repository useful in your research, please cite our paper and t
     author={Jiang, Cheng and Hasan, Md Rakibul and Gedeon, Tom and Hossain, Md Zakir},
     booktitle={2023 International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
     year={2023},
-    pages={1-8},
-    organization={IEEE}
+    pages={456--463}
+    organization={IEEE},
+    doi={10.1109/DICTA60407.2023.00069}
 }
 ```
 ```
