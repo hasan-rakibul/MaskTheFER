@@ -52,7 +52,7 @@ Once the weights of the models are placed into the `models` folder, you can exec
 
 # Citation
 If you find this repository useful in your research, please cite our paper and the dataset as follows:
-```
+```bibtex
 @inproceedings{jiang2023maskthefer,
     title={{MaskTheFER}: Mask-Aware Facial Expression Recognition using Convolutional Neural Network},
     author={Jiang, Cheng and Hasan, Md Rakibul and Gedeon, Tom and Hossain, Md Zakir},
@@ -63,7 +63,7 @@ If you find this repository useful in your research, please cite our paper and t
     doi={10.1109/DICTA60407.2023.00069}
 }
 ```
-```
+```bibtex
 @misc{jiang2023maskedfer2023,
     title={{MaskedFER2023} and {MaskedCK}+: Face-masked {FER2013} and {CK+} datasets for mask-aware facial expression recognition},
     author={Jiang, Cheng and Hasan, Md Rakibul and Gedeon, Tom and Hossain, Md Zakir},
